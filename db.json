@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "publicaciones": [
+=======
+  "posts": [
+>>>>>>> 845ae8cbf9909ecf8bf27b1c8e64b700d89c06a5
     {
       "id": "3deb",
       "correo": "",

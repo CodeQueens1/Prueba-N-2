@@ -79,7 +79,11 @@ usuarioAutenticado = new BehaviorSubject<Usuario | null>(null);
     });
   }
 
+<<<<<<< HEAD
   async logou() {
+=======
+  async logout() {
+>>>>>>> 845ae8cbf9909ecf8bf27b1c8e64b700d89c06a5
     this.leerUsuarioAutenticado().then((usuario) => {
       if (usuario) {
         showToast(`¡Hasta pronto ${usuario.nombre} ${usuario.apellido}!`);
@@ -89,10 +93,13 @@ usuarioAutenticado = new BehaviorSubject<Usuario | null>(null);
     })
   }
 
+<<<<<<< HEAD
   logout() {
     localStorage.removeItem('token'); // Elimina el token o información de sesión almacenada
     console.log('Sesión cerrada');
   }
   
 
+=======
+>>>>>>> 845ae8cbf9909ecf8bf27b1c8e64b700d89c06a5
 }

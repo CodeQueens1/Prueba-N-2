@@ -40,7 +40,10 @@
     "@ngx-translate/core": "^15.0.0",
     "@ngx-translate/http-loader": "^8.0.0",
     "@types/leaflet": "^1.9.14",
+<<<<<<< HEAD
     "angularx-qrcode": "^18.0.2",
+=======
+>>>>>>> 845ae8cbf9909ecf8bf27b1c8e64b700d89c06a5
     "ionicons": "^7.2.1",
     "jeep-sqlite": "^2.8.0",
     "jsqr": "^1.4.0",
